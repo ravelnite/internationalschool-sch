@@ -607,11 +607,11 @@ nav .navigation ul li a:hover {
   align-items: center;
   font-size: 1.4rem;
   font-weight: 600;
-  color: rgb(245, 176, 65);
+  color: rgb(33, 47, 61);
   background-color: #fff;
-  border-radius: 5%;
-  padding: 10px;
-  width: 600px;
+  border-radius: 10px;
+  padding: 0 30px 0 0;
+  border: 5px solid rgb(245, 176, 65);
 }
 #footer .footbox {
   padding-bottom: 40px;
