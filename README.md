@@ -1,2 +1,2 @@
-# newinternationalschool.sch
+# newinternationalschool-sch
 School Website
