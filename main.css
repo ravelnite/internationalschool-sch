@@ -392,7 +392,9 @@ nav .navigation ul li a:hover {
   align-items: center;
 }
 #actv .actv-right {
-  text-align: right;
+  text-align: justify;
+  text-align-last: right;
+  padding-left: 5vw;
 }
 #actv h1 {
   color: rgba(33, 47, 61);
