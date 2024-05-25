@@ -621,3 +621,42 @@ nav .navigation ul li a:hover {
   font-weight: 600;
   padding-bottom: 20px;
 }
+#footer li {
+  list-style: none;
+  color: #7b838a;
+  padding: 10px 0;
+  font-size: 15px;
+  cursor: pointer;
+}
+#footer li:hover {
+  color: rgb(245, 176, 65);
+}
+#footer p {
+  color: #7b838a;
+}
+#footer .subscribe {
+  margin-top: 20px;
+}
+#footer input {
+  width: 250px;
+  padding: 15px;
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+#footer .subscribe a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  padding: 13px;
+  font-weight: 600;
+  border-radius: 5px;
+  background-color: rgb(245, 176, 65);
+  color: #fff;
+  transition: 0.3s ease;
+  height: 10px;
+}
+#footer .subscribe a .subsbtn:hover {
+  color: #fff;
+  background: rgb(33, 47, 61);
+}
