@@ -631,7 +631,7 @@ nav .navigation ul li a:hover {
 #footer li:hover {
   color: rgb(245, 176, 65);
 }
-#footer p {
+#footer .footbox p {
   color: #7b838a;
 }
 #footer .subscribe {
