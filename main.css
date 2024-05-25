@@ -616,6 +616,7 @@ nav .navigation ul li a:hover {
   border-radius: 10px;
   padding: 0 30px 0 0;
   border: 5px solid rgb(245, 176, 65);
+  margin-top: 10px;
 }
 #footer .footbox {
   padding-bottom: 40px;
